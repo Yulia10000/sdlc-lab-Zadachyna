@@ -15,7 +15,7 @@
 5. Як користувач, я хочу отримувати статистику (кількість днів поспіль), щоб мотивуватись.
 
 ## 3.Дизайн(Прототип)
-
+![Image Alt](https://github.com/Yulia10000/sdlc-lab-Zadachyna/blob/main/image0.jpeg?raw=true)
 ## 4. Реалізація (Псевдокод)
 ```pseudo
 function addHabit(habitName):
