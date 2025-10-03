@@ -25,13 +25,6 @@ function addHabit(habitName):
         habit = createHabit(habitName)
         habitList.add(habit)
         return "Habit added"
-
-function markHabitAsDone(habit, date):
-    if habit exists in habitList:
-        habit.progress.add(date)
-        return "Habit marked as done"
-    else:
-        return "Error: Habit not found"
 ```  
 ## 5. Тестування
 Додати звичку “Читати книгу” → з’являється у списку.
